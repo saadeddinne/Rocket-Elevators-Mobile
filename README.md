@@ -36,6 +36,16 @@ The Mobile application will allow teams in the field to interact with the Rocket
 </tbody>
 </table>
 
+## Preview
+
+- IOS Version:
+
+![Preview of use](mobiappIOS.gif)
+
+- Android Version:
+
+![Preview of use](mobiapp.gif)
+
 ## Contents
 
 Within the download you'll find the following directories and files:
@@ -91,16 +101,6 @@ yarn install
 ```
 
 When you run expo start (or npm start), Expo CLI starts Metro Bundler, which is an HTTP server and pops up Expo Dev Tools, a graphical interface for Expo CLI.
-
-## Preview
-
-- IOS Version:
-
-![Preview of use](mobiappIOS.gif)
-
-- Android Version:
-
-![Preview of use](mobiapp.gif)
 
 ## Implementation
 
