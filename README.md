@@ -9,7 +9,7 @@ The Mobile application will allow teams in the field to interact with the Rocket
 - Android: you can use the APK file in the repos and installed in your phone
 - Link to the public project : https://expo.io/@saadeddine/projects/Rocket-Elevators-Mobile you can scan the QR code and start testing
 - IOS : you can use the bundle : .tar.gz in the repos and installed in your phone
-- IOS : you can use Appetize.io to see the testing : https://appetize.io/app/4ghg6hx5wkqht0na27tdkk2bzm
+- IOS : you can use Appetize.io emulator for testing : https://appetize.io/app/4ghg6hx5wkqht0na27tdkk2bzm
 - The access to the project builds will be provided privately
 
 <table><tbody>
