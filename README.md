@@ -4,7 +4,13 @@
 
 The Mobile application will allow teams in the field to interact with the Rocket Elevators information system, only emplyee can access to the sytem.
 
-## Testing params:
+## Testing :
+
+- Android: you can use the APK file in the repos and installed in your phone
+- Link to the public project : https://expo.io/@saadeddine/projects/Rocket-Elevators-Mobile you can scan the QR code and start testing
+- IOS : you can use the bundle : .tar.gz in the repos and installed in your phone
+- IOS : you can use Appetize.io to see the testing : https://appetize.io/app/4ghg6hx5wkqht0na27tdkk2bzm
+- The access to the project builds will be provided privately
 
 <table><tbody>
     <tr>
@@ -87,6 +93,12 @@ yarn install
 When you run expo start (or npm start), Expo CLI starts Metro Bundler, which is an HTTP server and pops up Expo Dev Tools, a graphical interface for Expo CLI.
 
 ## Preview
+
+- IOS Version:
+
+![Preview of use](mobiappIOS.gif)
+
+- Android Version:
 
 ![Preview of use](mobiapp.gif)
 
