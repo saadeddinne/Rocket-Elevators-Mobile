@@ -6,6 +6,7 @@ The Mobile application will allow teams in the field to interact with the Rocket
 
 ## Testing :
 
+- Dowlaod the IOS and Android : https://drive.google.com/drive/folders/1a734kawiRw5VPzrXvnarWQa-SFMxQIOf?usp=sharing
 - Android: you can use the APK file in the repos and installed in your phone
 - Link to the public project : https://expo.io/@saadeddine/projects/Rocket-Elevators-Mobile you can scan the QR code and start testing
 - IOS : you can use the bundle : .tar.gz in the repos and installed in your phone
@@ -19,19 +20,19 @@ The Mobile application will allow teams in the field to interact with the Rocket
 </tr>
 <tr>
     <td>2</td>
-    <td>ray@parisian.org</td>
+    <td>glinda@ortiz.io</td>
 </tr>
 <tr>
     <td>3</td>
-    <td>felix@dietrich.info</td>
+    <td>rocky@terry.biz</td>
 </tr>
 <tr>
     <td>4</td>
-    <td>adena_walker@strosin.co </td>
+    <td>meta@williamson.io </td>
 </tr>
 <tr>
     <td>5</td>
-    <td>nadine@swaniawski.io</td>
+    <td>arturo@larkin.io</td>
 </tr>
 </tbody>
 </table>
